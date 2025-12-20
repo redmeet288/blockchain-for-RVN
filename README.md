@@ -7,5 +7,5 @@ there is a check of the balance and height of the blockchain
 to use:
 create a .env file in the root
 and paste it there
-NOWNODES_API_KEY = your api
+NOWNODES_API_KEY = "your_api"
 from here https://account.nownodes.io for example
