@@ -8,3 +8,4 @@ to use:
 create a .env file in the root
 and paste it there
 NOWNODES_API_KEY = your api
+from here https://account.nownodes.io for example
