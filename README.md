@@ -9,3 +9,6 @@ create a .env file in the root
 and paste it there
 NOWNODES_API_KEY = "your_api"
 from here https://account.nownodes.io for example
+
+
+for start run svc/index.ts
